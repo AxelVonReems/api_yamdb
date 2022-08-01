@@ -32,7 +32,7 @@ Django REST Framework simplejwt 5.1.0
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-https://github.com/alvaresShD/api_yamdb.git
+https://github.com/AxelVonReems/api_yamdb.git
 ```
 
 Перейти в папку с проектом
